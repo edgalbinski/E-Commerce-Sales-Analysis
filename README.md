@@ -4,9 +4,16 @@ A comprehensive data analysis report examining 1,000 products across 7 categorie
 
 ## 📊 Project Overview
 
-The objective of this report is to use this data to determine the Strenghts, Weaknesses, Opportunities and Threats (Risks) for this e-commerce business. With these insights in consideration we can provide recommendations on actionable business insights.
+The objective of this report is to identify the strengths, weaknesses, opportunities, and threats (risks) of the e-commerce business. Using these insights, I will provide clear, actionable recommendations to support strategic decision-making and business growth.
 
-This analysis explores key business questions around product performance, pricing strategies, seasonal trends, and customer satisfaction.
+## 📈 Dataset Overview
+
+Public Dataset available on [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis]
+
+- **Products:** 1,000
+- **Categories:** 7 (Books, Toys, Sports, Electronics, Health, Clothing, Home & Kitchen)
+- **Time Period:** 12 months of sales data
+- **Metrics:** Sales volume, pricing, customer reviews (score & count), monthly performance
 
 ## 🔍 Key Findings
 
@@ -120,12 +127,6 @@ The market shows surprising balance with the top 3 categories (Books, Toys, Spor
 
 
 
-## 📈 Dataset Overview
-
-- **Products:** 1,000
-- **Categories:** 7 (Books, Toys, Sports, Electronics, Health, Clothing, Home & Kitchen)
-- **Time Period:** 12 months of sales data
-- **Metrics:** Sales volume, pricing, customer reviews (score & count), monthly performance
 
 ## 🎯 Business Impact
 
