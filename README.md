@@ -102,23 +102,23 @@ The market shows surprising balance with the top 3 categories (Books, Toys, Spor
 
 ## 💡 Strategic Recommendations
 
-### 🔴 WEAKNESS (Immediate Action Required)
+### 🔴 Immediate Action Required
 
 1. **Product Quality Overhaul**: Audit and improve/remove the 370 products (37%) with poor ratings
 2. **Toys Category Crisis**: Investigate why the #2 best-seller has the worst reviews (2.87 score)
 3. **Target May-June slump** - promotional campaigns to boost summer sales
    
-### 🔴 MAJOR RISK: 
+### 🟠 Current Risk
 1. **Brand Reputation** 37% poor-rated products, potential brand reputation damage
-2. **Review System Audit**: Understand why negative reviews aren't preventing purchases yet
+2. **Review System Audit**: Understand why negative reviews aren't preventing purchases
 
-### 🟢 STRENGTHS (Boost What Works)
+### 🟢 Boosting What Works
 
 1. **Double down on Books, Toys, and Sports** - proven market leaders
 2. **Leverage Electronics quality** - highest satisfaction (3.14); learn and replicate
 3. **Capitalize on Oct-Feb strength** - aggressive marketing during peak period
 
-### 🟢 STRATEGIC OPPORTUNITIES
+### 🔵 Possible Strategic Advantages
 
 1. **Premium pricing is safe** - focus on value perception over price reduction
 2. **Home & Kitchen growth** - lowest market share (12.33%) offers expansion potential
@@ -126,14 +126,12 @@ The market shows surprising balance with the top 3 categories (Books, Toys, Spor
 4. **Stable cash flow** - minimal seasonality enables predictable financial planning
 
 
-
-
 ## 🎯 Business Impact
 
 This analysis reveals a business with **strong fundamentals** (balanced portfolio, stable seasonality, price flexibility) but facing a **quality crisis** that threatens long-term sustainability:
 
 ✅ **Strengths:** Diverse revenue streams, year-round stability, pricing power  
-⚠️ **Concerns:** Mediocre satisfaction (3.03/5.0), ineffective review system  
+⚠️ **Weakness:** Mediocre satisfaction (3.03/5.0), ineffective review system  
 🔴 **Critical Risks:** 37% poor-rated products, brand reputation vulnerability
 🎯 **Opportunities:** Premium pricing is safe, and 'Home & Kitcken' has expansion potential
 
@@ -141,10 +139,10 @@ This analysis reveals a business with **strong fundamentals** (balanced portfoli
 
 ## 🚀 Key Takeaways
 
-1. **Price doesn't predict sales** - focus on product quality and marketing instead
+1. **Price doesn't predict sales** - focus on product quality, perceived value, and marketing instead
 2. **Seasonality is minimal** - provides business stability and predictable planning
-3. **Customer satisfaction is a ticking time bomb** - 37% poor ratings demand urgent attention
-4. **Reviews don't prevent purchases** - but poor quality will hurt long-term retention
+3. **Customer satisfaction is critical** - 37% poor ratings demand urgent attention
+4. **Reviews don't prevent purchases** - but poor quality will hurt long-term retention, product review system must be improved
 5. **Category balance is healthy** - no over-dependence on single revenue stream
 
 ---
